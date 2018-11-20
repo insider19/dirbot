@@ -1,7 +1,7 @@
 ======
 dirbot
 ======
-
+https://attendee.gotowebinar.com/register/6317583101438680067
 This is a Scrapy project to scrape websites from public web directories.
 
 This project is only meant for educational purposes.
